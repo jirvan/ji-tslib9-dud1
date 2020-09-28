@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ji-tslib8
+ * Public API Surface of ji-tslib9
  */
 
 export * from './utils/ji-utl.service';
@@ -26,4 +26,4 @@ export * from './components/ji-textfield';
 export * from './components/ji-textfieldm';
 export * from './components/progress-overlay';
 export * from './ji-joblog-dialog/ji-joblog-dialog.component';
-export * from './ji-tslib8.module';
+export * from './ji-tslib9.module';

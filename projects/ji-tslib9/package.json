@@ -1,6 +1,6 @@
 {
-  "name": "ji-tslib8",
-  "version": "2.0.3",
+  "name": "ji-tslib9",
+  "version": "9.0.0",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",

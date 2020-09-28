@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "ji-tslib8": [
-        "dist/ji-tslib8"
+      "ji-tslib9": [
+        "dist/ji-tslib9"
       ],
-      "ji-tslib8/*": [
-        "dist/ji-tslib8/*"
+      "ji-tslib9/*": [
+        "dist/ji-tslib9/*"
       ]
     }
   },
