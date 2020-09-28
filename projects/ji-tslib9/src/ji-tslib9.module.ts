@@ -39,16 +39,16 @@ import {JiCurrencyPinput} from "./components/ji-currency-pinput";
 import {JiDatefield} from "./components/ji-datefield";
 import {JiDatefieldm} from "./components/ji-datefieldm";
 import {JiFileUploader} from "./components/ji-file-uploader";
-import {JiImagefield} from "./components/ji-imagefield";
-import {JiImagefieldm} from "./components/ji-imagefieldm";
+// import {JiImagefield} from "./components/ji-imagefield";
+// import {JiImagefieldm} from "./components/ji-imagefieldm";
 import {JiIntegerfield} from "./components/ji-integerfield";
 import {JiIntegerfieldm} from "./components/ji-integerfieldm";
 import {JiMessageDialog} from "./components/ji-message-dialog";
 import {JiTextfieldm} from "./components/ji-textfieldm";
 import {CharFilterDirective} from "./directives/charFilter-directive";
-import {JiDropdown} from "./components/ji-dropdown";
+// import {JiDropdown} from "./components/ji-dropdown";
 import {JiErrorDialog} from "./errors/ji-error-dialog";
-import {JiJoblogDialogComponent} from "./ji-joblog-dialog/ji-joblog-dialog.component";
+// import {JiJoblogDialogComponent} from "./ji-joblog-dialog/ji-joblog-dialog.component";
 import {JiUtlService} from "./utils/ji-utl.service";
 
 @NgModule({
@@ -64,14 +64,14 @@ import {JiUtlService} from "./utils/ji-utl.service";
                            JiCurrencyPinput,
                            JiDatefield,
                            JiDatefieldm,
-                           JiDropdown,
+                           // JiDropdown,
                            JiErrorDialog,
                            JiFileUploader,
-                           JiImagefield,
-                           JiImagefieldm,
+                           // JiImagefield,
+                           // JiImagefieldm,
                            JiIntegerfield,
                            JiIntegerfieldm,
-                           JiJoblogDialogComponent,
+                           // JiJoblogDialogComponent,
                            JiMessageDialog,
                            JiTextfield,
                            JiTextfieldm,
@@ -115,14 +115,14 @@ import {JiUtlService} from "./utils/ji-utl.service";
                       JiCurrencyPinput,
                       JiDatefield,
                       JiDatefieldm,
-                      JiDropdown,
+                      // JiDropdown,
                       JiErrorDialog,
                       JiFileUploader,
-                      JiImagefield,
-                      JiImagefieldm,
+                      // JiImagefield,
+                      // JiImagefieldm,
                       JiIntegerfield,
                       JiIntegerfieldm,
-                      JiJoblogDialogComponent,
+                      // JiJoblogDialogComponent,
                       JiMessageDialog,
                       JiTextfield,
                       JiTextfieldm,

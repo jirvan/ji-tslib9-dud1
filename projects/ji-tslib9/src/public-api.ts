@@ -3,6 +3,7 @@
  */
 
 export * from './utils/ji-utl.service';
+export * from './directives/charFilter-directive';
 export * from './components/blockable-div';
 export * from './components/ji-charfilteredfield';
 export * from './components/ji-checkbox';
@@ -15,15 +16,17 @@ export * from './components/ji-currency-input';
 export * from './components/ji-currency-pinput';
 export * from './components/ji-datefield';
 export * from './components/ji-datefieldm';
-export * from './components/ji-dropdown';
+// export * from './components/ji-dropdown';
+export * from './components/ji-integerfieldm';
+export * from './components/ji-integerfield';
 export * from './errors/ji-error-dialog';
 export * from './errors/ji-errorhander';
 export * from './components/ji-file-uploader';
-export * from './components/ji-imagefield';
-export * from './components/ji-imagefieldm';
+// export * from './components/ji-imagefield';
+// export * from './components/ji-imagefieldm';
 export * from './components/ji-message-dialog';
 export * from './components/ji-textfield';
 export * from './components/ji-textfieldm';
 export * from './components/progress-overlay';
-export * from './ji-joblog-dialog/ji-joblog-dialog.component';
+// export * from './ji-joblog-dialog/ji-joblog-dialog.component';
 export * from './ji-tslib9.module';
