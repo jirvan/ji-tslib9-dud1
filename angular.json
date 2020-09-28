@@ -15,7 +15,12 @@
             "tsConfig": "projects/ji-tslib9/tsconfig.lib.json",
             "project": "projects/ji-tslib9/ng-package.json"
           }
-        },
+        ,          "configurations": {
+            "production": {
+              "tsConfig": "projects/ji-tslib9/tsconfig.lib.prod.json"
+            }
+          }
+},
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
