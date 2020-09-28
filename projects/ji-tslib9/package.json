@@ -2,9 +2,9 @@
   "name": "ji-tslib9",
   "version": "9.0.0",
   "peerDependencies": {
-    "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14",
-    "@angular/cdk": "8.0.0",
-    "primeng": "8.0.0"
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12",
+    "@angular/cdk": "9.1.0",
+    "primeng": "9.0.1"
   }
 }
